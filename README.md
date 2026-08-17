@@ -113,4 +113,8 @@ Happy Coding! 🚀
 | ------- |
 | [0125-valid-palindrome](https://github.com/MagdumManasi/LeetCode-Playbook/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/MagdumManasi/LeetCode-Playbook/tree/master/0344-reverse-string) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/MagdumManasi/LeetCode-Playbook/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
